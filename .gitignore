@@ -1,0 +1,30 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore system and IDE-specific files
+.DS_Store
+.idea/
+.vscode/
+
+# Ignore virtual environment directories (if using virtualenv or venv)
+.venv
+env/
+output
+*.egg-info
+
+# Ignore local configuration files
+config.ini
+
+# Ignore log files
+*.log
+
+# Ignore package build and distribution directories
+build/
+dist/
+
+# Ignore cached files and directories
+__pycache__/
+.cached/
+
+
